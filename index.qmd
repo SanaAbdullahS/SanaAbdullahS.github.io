@@ -54,31 +54,55 @@ I am interested in building practical analytics solutions that support decision-
 ::: {.snapshot-grid}
 
 ::: {.snapshot-card}
-## 📊 Projects
+<div class="card-title-row">
+  <span class="card-icon">📊</span>
+  <h2>Projects</h2>
+</div>
 
 KYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification.
 :::
 
 ::: {.snapshot-card}
-## 🛠 Skills
+<div class="card-title-row">
+  <span class="card-icon">🛠️</span>
+  <h2>Skills</h2>
+</div>
 
 Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.
 :::
 
 ::: {.snapshot-card}
-## 💼 Experience
+<div class="card-title-row">
+  <span class="card-icon">💼</span>
+  <h2>Experience</h2>
+</div>
 
 Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.
 :::
 
 ::: {.snapshot-card}
-## 🎓 Coursework
+<div class="card-title-row">
+  <span class="card-icon">🎓</span>
+  <h2>Coursework</h2>
+</div>
 
 Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
 :::
 
 ::: {.snapshot-card}
-## 📬 Contact
+<div class="card-title-row">
+  <span class="card-icon">🏅</span>
+  <h2>Certifications</h2>
+</div>
+
+Big data analytics, Android mobile app development, business model workshops, industry programs, and community engagement experience.
+:::
+
+::: {.snapshot-card}
+<div class="card-title-row">
+  <span class="card-icon">📬</span>
+  <h2>Contact</h2>
+</div>
 
 Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.
 :::
