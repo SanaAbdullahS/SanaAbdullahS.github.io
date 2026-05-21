@@ -8,7 +8,7 @@ page-layout: full
 ::: {.hero-card}
 
 ::: {.hero-image}
-![](images/Pic.JPG){.profile-img width="150px"}
+![](images/IMG_3583.JPG){.profile-img width="150px"}
 :::
 
 ::: {.hero-text}
