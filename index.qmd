@@ -1,14 +1,82 @@
 ---
-title: "Hello!"
+title: "Home"
+page-layout: full
 ---
 
-WELCOME! This is my personal Website.
+::: {.portfolio-dashboard}
 
-I was born in Hyderabad, India. I have pursued my academic journey with a deep interest in both technology and business. I completed my B.Tech in Computer Science and Engineering from GNITS, JNTUH, followed by an MBA from Aackba, OSMANIA UNIVERSITY. Currently, I am pursuing my Master's in Data Analytics Engineering at George Mason University,USA.
+::: {.profile-card}
+![](images/IMG_2623.JPG){.profile-img}
 
-With a unique blend of technical and business education, I am passionate about exploring how data can drive decision-making and innovation. My goal is to harness data insights to make a significant impact in the field of analytics.
+# Sana Shaik
 
-In addition to academics, I enjoy learning about the latest trends in technology and data science, and I'm excited to work on projects that bring meaningful insights to life.
+**Data Analytics Engineer**
 
-![](images/IMG_2623.JPG){fig-align="center" width="7cm"}
+MS Data Analytics Engineering @ George Mason University  
+Python • R • SQL • Machine Learning • Visualization • KYC/AML Analytics
 
+::: {.profile-actions}
+[View Resume](contact.qmd){.btn-primary}
+[Contact Me](contact.qmd){.btn-secondary}
+:::
+
+::: {.profile-contact}
+📍 Fairfax, Virginia  
+✉️ Email available upon request  
+🔗 LinkedIn | GitHub
+:::
+:::
+
+::: {.dashboard-content}
+
+::: {.info-card}
+## About Me
+
+Data Analytics Engineering graduate student with a background in Computer Science, Business Administration, and HR Operations. I enjoy using data, AI, machine learning, and visualization to solve business, risk, and compliance problems.
+
+[Read More →](about.qmd){.card-link}
+:::
+
+::: {.info-card}
+## Featured Projects
+
+Explore projects in KYC intelligence, credit risk prediction, crime analysis, disaster analytics, restaurant revenue forecasting, and machine learning classification.
+
+[View Projects →](projects.qmd){.card-link}
+:::
+
+::: {.info-card}
+## Technical Skills
+
+Python, R, SQL, Snowflake, AWS, PySpark, Spark MLlib, Pandas, NumPy, Plotly, ggplot2, Shiny, Leaflet, machine learning, risk scoring, and dashboard development.
+
+[View Skills →](about.qmd){.card-link}
+:::
+
+::: {.info-card}
+## Experience
+
+Graduate Teaching Assistant at George Mason University and former HR Operations Manager with experience in teaching, technical support, team leadership, compliance, payroll, and organizational operations.
+
+[View Experience →](experience.qmd){.card-link}
+:::
+
+::: {.info-card}
+## Coursework
+
+Graduate coursework in data management, data mining, applied statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
+
+[View Coursework →](coursework.qmd){.card-link}
+:::
+
+::: {.info-card}
+## Contact
+
+Open to Data Analyst, Data Analytics Engineer, AI Analyst, Machine Learning Analyst, Business Analyst, Fraud Analytics, KYC/AML Analytics, and Data Engineering roles.
+
+[Get in Touch →](contact.qmd){.card-link}
+:::
+
+:::
+
+:::
