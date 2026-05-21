@@ -18,48 +18,48 @@
     "href": "index.html",
     "title": "Sana Shaik",
     "section": "",
-    "text": "Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University\nI build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.\n\n📄 Resume 💼 LinkedIn 💻 GitHub ✉️ Email\n\n\n\n\n\n\nComputer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.\n\n\n\nKYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification.\n\n\n\nPython, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.\n\n\n\nGraduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience.\n\n\n\nGraduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.\n\n\n\nOpen to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles."
+    "text": "Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University\nI build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.\n\n[::: {.profile-link-card} ::: {.profile-icon} 📄\n\nResume :::](contact.qmd)\n[::: {.profile-link-card} ::: {.profile-icon} in\n\nLinkedIn :::](https://www.linkedin.com/)\n[::: {.profile-link-card} ::: {.profile-icon} 💻\n\nGitHub :::](https://github.com/SanaAbdullahS)\n:::\n:::\n:::"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support."
+    "section": "👩‍💻 About",
+    "text": "👩‍💻 About\nComputer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support."
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "KYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification."
+    "section": "📊 Projects",
+    "text": "📊 Projects\nKYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification."
   },
   {
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting."
+    "section": "🛠 Skills",
+    "text": "🛠 Skills\nPython, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting."
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "Graduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience."
+    "section": "💼 Experience",
+    "text": "💼 Experience\nGraduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience."
   },
   {
     "objectID": "index.html#coursework",
     "href": "index.html#coursework",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research."
+    "section": "🎓 Coursework",
+    "text": "🎓 Coursework\nGraduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Sana Shaik",
-    "section": "",
-    "text": "Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles."
+    "section": "📬 Contact",
+    "text": "📬 Contact\nOpen to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles."
   }
 ]
