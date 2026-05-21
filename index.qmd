@@ -12,6 +12,3 @@ In addition to academics, I enjoy learning about the latest trends in technology
 
 ![](images/IMG_2623.JPG){fig-align="center" width="7cm"}
 
-```{r}
-
-```
