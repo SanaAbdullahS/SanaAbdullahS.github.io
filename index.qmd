@@ -43,13 +43,15 @@ I build data-driven solutions using Python, R, SQL, machine learning, visualizat
 
 :::
 
-::: {.snapshot-grid}
+::: {.about-feature-card}
+## About Me
 
-::: {.snapshot-card}
-## 👩‍💻 About
+I am a Data Analytics Engineering graduate student at George Mason University with a background in Computer Science, Business Administration, and HR Operations. My experience combines technical analytics, business process understanding, and people-centered leadership.
 
-Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.
+I am interested in building practical analytics solutions that support decision-making in areas such as AI-driven data analysis, machine learning, fraud analytics, KYC/AML compliance, business intelligence, and risk scoring. I enjoy working with data from raw preparation to final insights, including cleaning, modeling, visualization, and communicating results clearly.
 :::
+
+::: {.snapshot-grid}
 
 ::: {.snapshot-card}
 ## 📊 Projects
@@ -66,7 +68,7 @@ Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, K
 ::: {.snapshot-card}
 ## 💼 Experience
 
-Graduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience.
+Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.
 :::
 
 ::: {.snapshot-card}
