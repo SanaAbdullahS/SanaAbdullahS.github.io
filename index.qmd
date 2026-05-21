@@ -8,7 +8,7 @@ page-layout: full
 ::: {.hero-card}
 
 ::: {.hero-image}
-![](images/IMG_2623.JPG){.profile-img}
+![](images/IMG_2623.JPG){.profile-img width="150px"}
 :::
 
 ::: {.hero-text}
@@ -29,55 +29,37 @@ I build data-driven solutions using Python, R, SQL, machine learning, visualizat
 ::: {.snapshot-grid}
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-👩‍💻
-:::
-## About
+## 👩‍💻 About
 
 Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.
 :::
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-📊
-:::
-## Projects
+## 📊 Projects
 
-KYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification.
+KYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification.
 :::
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-🛠️
-:::
-## Skills
+## 🛠 Skills
 
 Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.
 :::
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-💼
-:::
-## Experience
+## 💼 Experience
 
-Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.
+Graduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience.
 :::
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-🎓
-:::
-## Coursework
+## 🎓 Coursework
 
 Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
 :::
 
 ::: {.snapshot-card}
-::: {.icon-badge}
-📬
-:::
-## Contact
+## 📬 Contact
 
 Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.
 :::
