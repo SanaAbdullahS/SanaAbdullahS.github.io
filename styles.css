@@ -97,3 +97,45 @@
   position: relative !important;
   top: 0 !important;
 }
+/* Remove blue outline from Quarto search popup */
+.aa-Form:focus-within,
+.aa-Form:focus,
+.aa-Input:focus,
+.aa-DetachedSearchButton:focus,
+.aa-DetachedSearchButton:focus-visible {
+  outline: none !important;
+  box-shadow: 0 0 0 3px rgba(100, 116, 139, 0.18) !important;
+  border-color: #94a3b8 !important;
+}
+
+/* Search input styling */
+.aa-Form {
+  border: 1px solid #d1d5db !important;
+  border-radius: 10px !important;
+  background-color: #ffffff !important;
+}
+
+.aa-Input {
+  color: #1f2937 !important;
+}
+
+/* Search popup container */
+.aa-DetachedContainer {
+  border-radius: 14px !important;
+  border: 1px solid #e5e7eb !important;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.14) !important;
+}
+
+/* Search result hover/selected state */
+.aa-Item[aria-selected="true"],
+.aa-Item:hover {
+  background-color: #f3f4f6 !important;
+}
+
+/* Remove blue accents inside search */
+.aa-SubmitIcon,
+.aa-LoadingIcon,
+.aa-DetachedSearchButtonIcon {
+  color: #374151 !important;
+  stroke: #374151 !important;
+}
