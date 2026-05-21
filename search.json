@@ -16,8 +16,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Sana Shaik",
     "section": "",
-    "text": "&lt;img src=\"images/IMG_2623.JPG\" alt=\"Sana Shaik\" class=\"profile-img\"&gt;\n&lt;/div&gt;\n\n&lt;div class=\"hero-text\"&gt;\n  &lt;h1&gt;Sana Shaik&lt;/h1&gt;\n  &lt;p class=\"hero-title\"&gt;\n    Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University\n  &lt;/p&gt;\n\n  &lt;p class=\"hero-summary\"&gt;\n    I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. \n    My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.\n  &lt;/p&gt;\n\n  &lt;div class=\"hero-buttons\"&gt;\n    &lt;a href=\"projects.html\" class=\"home-btn primary-btn\"&gt;View Projects&lt;/a&gt;\n    &lt;a href=\"contact.html\" class=\"home-btn\"&gt;Contact Me&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n\n&lt;a href=\"about.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;👩‍💻&lt;/div&gt;\n  &lt;h2&gt;About&lt;/h2&gt;\n  &lt;p&gt;\n    Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.\n  &lt;/p&gt;\n&lt;/a&gt;\n\n&lt;a href=\"projects.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;📊&lt;/div&gt;\n  &lt;h2&gt;Projects&lt;/h2&gt;\n  &lt;p&gt;\n    KYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification.\n  &lt;/p&gt;\n&lt;/a&gt;\n\n&lt;a href=\"about.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;🛠️&lt;/div&gt;\n  &lt;h2&gt;Skills&lt;/h2&gt;\n  &lt;p&gt;\n    Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.\n  &lt;/p&gt;\n&lt;/a&gt;\n\n&lt;a href=\"experience.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;💼&lt;/div&gt;\n  &lt;h2&gt;Experience&lt;/h2&gt;\n  &lt;p&gt;\n    Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.\n  &lt;/p&gt;\n&lt;/a&gt;\n\n&lt;a href=\"coursework.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;🎓&lt;/div&gt;\n  &lt;h2&gt;Coursework&lt;/h2&gt;\n  &lt;p&gt;\n    Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.\n  &lt;/p&gt;\n&lt;/a&gt;\n\n&lt;a href=\"contact.html\" class=\"snapshot-card\"&gt;\n  &lt;div class=\"icon-badge\"&gt;📬&lt;/div&gt;\n  &lt;h2&gt;Contact&lt;/h2&gt;\n  &lt;p&gt;\n    Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.\n  &lt;/p&gt;\n&lt;/a&gt;"
+    "text": "Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University\nI build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.\n\nView Projects Contact Me\n\n\n\n\n\n\n👩‍💻\n\n\n\nComputer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.\n\n\n\n\n📊\n\n\n\nKYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification.\n\n\n\n\n🛠️\n\n\n\nPython, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.\n\n\n\n\n💼\n\n\n\nTeaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.\n\n\n\n\n🎓\n\n\n\nGraduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.\n\n\n\n\n📬\n\n\n\nOpen to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "KYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management."
+  },
+  {
+    "objectID": "index.html#coursework",
+    "href": "index.html#coursework",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Sana Shaik",
+    "section": "",
+    "text": "Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles."
   }
 ]
