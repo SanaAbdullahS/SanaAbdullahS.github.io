@@ -1,80 +1,79 @@
 ---
-title: "Home"
+title: ""
 page-layout: full
 ---
 
-::: {.portfolio-dashboard}
+::: {.home-wrapper}
 
-::: {.profile-card}
-![](images/IMG_2623.JPG){.profile-img}
+::: {.hero-card}
 
+::: {.hero-image}
+![](images/IMG_2623.JPG){.profile-img width="150px"}
+:::
+
+::: {.hero-text}
 # Sana Shaik
 
-**Data Analytics Engineer**
+**Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University**
 
-MS Data Analytics Engineering @ George Mason University  
-Python • R • SQL • Machine Learning • Visualization • KYC/AML Analytics
+I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.
 
-::: {.profile-actions}
-[View Resume](contact.qmd){.btn-primary}
-[Contact Me](contact.qmd){.btn-secondary}
-:::
-
-::: {.profile-contact}
-📍 Fairfax, Virginia  
-✉️ Email available upon request  
-🔗 LinkedIn | GitHub
+::: {.hero-buttons}
+[View Projects](projects.qmd){.home-btn .primary-btn}
+[Contact Me](contact.qmd){.home-btn}
 :::
 :::
 
-::: {.dashboard-content}
-
-::: {.info-card}
-## About Me
-
-Data Analytics Engineering graduate student with a background in Computer Science, Business Administration, and HR Operations. I enjoy using data, AI, machine learning, and visualization to solve business, risk, and compliance problems.
-
-[Read More →](about.qmd){.card-link}
 :::
 
-::: {.info-card}
-## Featured Projects
+::: {.snapshot-grid}
 
-Explore projects in KYC intelligence, credit risk prediction, crime analysis, disaster analytics, restaurant revenue forecasting, and machine learning classification.
+::: {.snapshot-card}
+## 👩‍💻 About
 
-[View Projects →](projects.qmd){.card-link}
+Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.
+
+[Explore →](about.qmd){.snapshot-link}
 :::
 
-::: {.info-card}
-## Technical Skills
+::: {.snapshot-card}
+## 📊 Projects
 
-Python, R, SQL, Snowflake, AWS, PySpark, Spark MLlib, Pandas, NumPy, Plotly, ggplot2, Shiny, Leaflet, machine learning, risk scoring, and dashboard development.
+KYC intelligence, credit risk prediction, crime analytics, disaster analysis, restaurant revenue forecasting, and ML classification.
 
-[View Skills →](about.qmd){.card-link}
+[Explore →](projects.qmd){.snapshot-link}
 :::
 
-::: {.info-card}
-## Experience
+::: {.snapshot-card}
+## 🛠 Skills
 
-Graduate Teaching Assistant at George Mason University and former HR Operations Manager with experience in teaching, technical support, team leadership, compliance, payroll, and organizational operations.
+Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.
 
-[View Experience →](experience.qmd){.card-link}
+[Explore →](about.qmd){.snapshot-link}
 :::
 
-::: {.info-card}
-## Coursework
+::: {.snapshot-card}
+## 💼 Experience
 
-Graduate coursework in data management, data mining, applied statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
+Graduate Teaching Assistant at George Mason University and former HR Operations Manager with leadership, teaching, and operations experience.
 
-[View Coursework →](coursework.qmd){.card-link}
+[Explore →](experience.qmd){.snapshot-link}
 :::
 
-::: {.info-card}
-## Contact
+::: {.snapshot-card}
+## 🎓 Coursework
 
-Open to Data Analyst, Data Analytics Engineer, AI Analyst, Machine Learning Analyst, Business Analyst, Fraud Analytics, KYC/AML Analytics, and Data Engineering roles.
+Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
 
-[Get in Touch →](contact.qmd){.card-link}
+[Explore →](coursework.qmd){.snapshot-link}
+:::
+
+::: {.snapshot-card}
+## 📬 Contact
+
+Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.
+
+[Explore →](contact.qmd){.snapshot-link}
 :::
 
 :::
