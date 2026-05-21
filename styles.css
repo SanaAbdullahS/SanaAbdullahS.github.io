@@ -1,10 +1,12 @@
-/* Keep top navigation visible */
+/* Sticky top navigation */
 .navbar {
   position: sticky;
   top: 0;
   z-index: 1000;
-  padding-top: 0.8rem;
-  padding-bottom: 0.8rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 /* Hide hamburger menu */
@@ -12,10 +14,11 @@
   display: none !important;
 }
 
-/* Make nav links always visible */
+/* Align navbar content */
 .navbar-collapse {
   display: flex !important;
   flex-basis: auto !important;
+  align-items: center !important;
   justify-content: center !important;
   width: 100%;
 }
@@ -26,41 +29,52 @@
   flex-direction: row !important;
   justify-content: center !important;
   align-items: center !important;
-  gap: 0.8rem;
+  gap: 0.75rem;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-/* Style each navigation option as a box */
+/* Professional boxed nav items */
 .navbar-nav .nav-link {
-  border: 1px solid #d0d7de;
-  border-radius: 10px;
-  padding: 0.45rem 1rem !important;
+  border: 1px solid #d8dee6;
+  border-radius: 8px;
+  padding: 0.45rem 0.95rem !important;
   font-weight: 500;
   background-color: #ffffff;
-  color: #1f2937 !important;
+  color: #374151 !important;
   transition: all 0.2s ease-in-out;
 }
 
-/* Hover effect */
+/* Subtle hover */
 .navbar-nav .nav-link:hover {
-  background-color: #f3f6fb;
-  border-color: #4f7fd9;
-  color: #0d6efd !important;
+  background-color: #f8fafc;
+  border-color: #94a3b8;
+  color: #1f2937 !important;
 }
 
-/* Keep active/highlight effect */
+/* Active page highlight */
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link.show,
 .navbar-nav .nav-link[aria-current="page"] {
-  background-color: #eaf2ff;
-  border-color: #0d6efd;
-  color: #0d6efd !important;
+  background-color: #eef2f7;
+  border-color: #64748b;
+  color: #1e293b !important;
   font-weight: 600;
 }
 
-/* Keep search on the right */
+/* Keep search aligned to the right and vertically centered */
 .navbar .quarto-navbar-tools,
-.navbar .aa-DetachedSearchButton {
+.navbar .aa-DetachedSearchButton,
+.navbar .navbar-tools {
+  display: flex !important;
+  align-items: center !important;
   margin-left: auto !important;
+  height: 100%;
+}
+
+/* Search icon/button alignment */
+.aa-DetachedSearchButton {
+  margin-top: 0 !important;
+  transform: none !important;
+  align-self: center !important;
 }
