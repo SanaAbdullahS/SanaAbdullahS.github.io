@@ -3,81 +3,85 @@ title: ""
 page-layout: full
 ---
 
-<div class="home-wrapper">
+::: {.home-wrapper}
 
-  <section class="hero-card">
-    <div class="hero-image">
-      <img src="images/IMG_2623.JPG" alt="Sana Shaik" class="profile-img">
-    </div>
+::: {.hero-card}
 
-    <div class="hero-text">
-      <h1>Sana Shaik</h1>
-      <p class="hero-title">
-        Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University
-      </p>
+::: {.hero-image}
+![](images/IMG_2623.JPG){.profile-img}
+:::
 
-      <p class="hero-summary">
-        I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. 
-        My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.
-      </p>
+::: {.hero-text}
+# Sana Shaik
 
-      <div class="hero-buttons">
-        <a href="projects.html" class="home-btn primary-btn">View Projects</a>
-        <a href="contact.html" class="home-btn">Contact Me</a>
-      </div>
-    </div>
-  </section>
+**Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University**
 
-  <section class="snapshot-grid">
+I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.
 
-    <a href="about.html" class="snapshot-card">
-      <div class="icon-badge">👩‍💻</div>
-      <h2>About</h2>
-      <p>
-        Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.
-      </p>
-    </a>
+::: {.hero-buttons}
+[View Projects](projects.qmd){.home-btn .primary-btn}
+[Contact Me](contact.qmd){.home-btn}
+:::
+:::
 
-    <a href="projects.html" class="snapshot-card">
-      <div class="icon-badge">📊</div>
-      <h2>Projects</h2>
-      <p>
-        KYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification.
-      </p>
-    </a>
+:::
 
-    <a href="about.html" class="snapshot-card">
-      <div class="icon-badge">🛠️</div>
-      <h2>Skills</h2>
-      <p>
-        Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.
-      </p>
-    </a>
+::: {.snapshot-grid}
 
-    <a href="experience.html" class="snapshot-card">
-      <div class="icon-badge">💼</div>
-      <h2>Experience</h2>
-      <p>
-        Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.
-      </p>
-    </a>
+::: {.snapshot-card}
+::: {.icon-badge}
+👩‍💻
+:::
+## About
 
-    <a href="coursework.html" class="snapshot-card">
-      <div class="icon-badge">🎓</div>
-      <h2>Coursework</h2>
-      <p>
-        Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
-      </p>
-    </a>
+Computer Science, MBA, and Data Analytics Engineering background with experience across analytics, business operations, and AI-driven decision support.
+:::
 
-    <a href="contact.html" class="snapshot-card">
-      <div class="icon-badge">📬</div>
-      <h2>Contact</h2>
-      <p>
-        Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.
-      </p>
-    </a>
+::: {.snapshot-card}
+::: {.icon-badge}
+📊
+:::
+## Projects
 
-  </section>
+KYC intelligence, credit risk prediction, crime analytics, disaster analysis, forecasting, and machine learning classification.
+:::
 
-</div>
+::: {.snapshot-card}
+::: {.icon-badge}
+🛠️
+:::
+## Skills
+
+Python, R, SQL, Snowflake, AWS, PySpark, machine learning, data visualization, KYC/AML analytics, and compliance reporting.
+:::
+
+::: {.snapshot-card}
+::: {.icon-badge}
+💼
+:::
+## Experience
+
+Teaching, technical lab support, HR operations, team leadership, compliance support, payroll, and organizational management.
+:::
+
+::: {.snapshot-card}
+::: {.icon-badge}
+🎓
+:::
+## Coursework
+
+Graduate coursework in data mining, statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.
+:::
+
+::: {.snapshot-card}
+::: {.icon-badge}
+📬
+:::
+## Contact
+
+Open to Data Analyst, Data Analytics Engineer, AI Analyst, Business Analyst, Fraud Analytics, and KYC/AML Analytics roles.
+:::
+
+:::
+
+:::
