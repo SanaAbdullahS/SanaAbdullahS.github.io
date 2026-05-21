@@ -1,1 +1,28 @@
-/* css styles */
+/* Force top navigation links to stay visible */
+.navbar-toggler {
+  display: none !important;
+}
+
+.navbar-collapse {
+  display: flex !important;
+  flex-basis: auto !important;
+}
+
+.navbar-nav {
+  flex-direction: row !important;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.navbar-nav .nav-link {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  font-weight: 500;
+}
+
+/* Keep navigation visible at the top */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
