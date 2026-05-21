@@ -18,30 +18,24 @@ page-layout: full
 
 I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.
 
-::: {.hero-links}
+<div class="hero-links">
 
-[::: {.profile-link-card}
-::: {.profile-icon}
-📄
-:::
-Resume
-:::](contact.qmd)
+  <a href="contact.html" class="profile-link-card">
+    <span class="profile-icon">📄</span>
+    <span>Resume</span>
+  </a>
 
-[::: {.profile-link-card}
-::: {.profile-icon}
-in
-:::
-LinkedIn
-:::](https://www.linkedin.com/)
+  <a href="https://www.linkedin.com/" class="profile-link-card" target="_blank">
+    <span class="profile-icon">in</span>
+    <span>LinkedIn</span>
+  </a>
 
-[::: {.profile-link-card}
-::: {.profile-icon}
-💻
-:::
-GitHub
-:::](https://github.com/SanaAbdullahS)
+  <a href="https://github.com/SanaAbdullahS" class="profile-link-card" target="_blank">
+    <span class="profile-icon">💻</span>
+    <span>GitHub</span>
+  </a>
 
-:::
+</div>
 :::
 
 :::
