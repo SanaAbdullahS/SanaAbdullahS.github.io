@@ -16,8 +16,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello!",
+    "title": "Home",
     "section": "",
-    "text": "WELCOME! This is my personal Website.\nI was born in Hyderabad, India. I have pursued my academic journey with a deep interest in both technology and business. I completed my B.Tech in Computer Science and Engineering from GNITS, JNTUH, followed by an MBA from Aackba, OSMANIA UNIVERSITY. Currently, I am pursuing my Master’s in Data Analytics Engineering at George Mason University,USA.\nWith a unique blend of technical and business education, I am passionate about exploring how data can drive decision-making and innovation. My goal is to harness data insights to make a significant impact in the field of analytics.\nIn addition to academics, I enjoy learning about the latest trends in technology and data science, and I’m excited to work on projects that bring meaningful insights to life."
+    "text": "Data Analytics Engineer\nMS Data Analytics Engineering @ George Mason University\nPython • R • SQL • Machine Learning • Visualization • KYC/AML Analytics\n\nView Resume Contact Me\n\n\n📍 Fairfax, Virginia\n✉️ Email available upon request\n🔗 LinkedIn | GitHub\n\n\n\n\n\n\nData Analytics Engineering graduate student with a background in Computer Science, Business Administration, and HR Operations. I enjoy using data, AI, machine learning, and visualization to solve business, risk, and compliance problems.\nRead More →\n\n\n\nExplore projects in KYC intelligence, credit risk prediction, crime analysis, disaster analytics, restaurant revenue forecasting, and machine learning classification.\nView Projects →\n\n\n\nPython, R, SQL, Snowflake, AWS, PySpark, Spark MLlib, Pandas, NumPy, Plotly, ggplot2, Shiny, Leaflet, machine learning, risk scoring, and dashboard development.\nView Skills →\n\n\n\nGraduate Teaching Assistant at George Mason University and former HR Operations Manager with experience in teaching, technical support, team leadership, compliance, payroll, and organizational operations.\nView Experience →\n\n\n\nGraduate coursework in data management, data mining, applied statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.\nView Coursework →\n\n\n\nOpen to Data Analyst, Data Analytics Engineer, AI Analyst, Machine Learning Analyst, Business Analyst, Fraud Analytics, KYC/AML Analytics, and Data Engineering roles.\nGet in Touch →"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analytics Engineering graduate student with a background in Computer Science, Business Administration, and HR Operations. I enjoy using data, AI, machine learning, and visualization to solve business, risk, and compliance problems.\nRead More →"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "",
+    "text": "Explore projects in KYC intelligence, credit risk prediction, crime analysis, disaster analytics, restaurant revenue forecasting, and machine learning classification.\nView Projects →"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Home",
+    "section": "",
+    "text": "Python, R, SQL, Snowflake, AWS, PySpark, Spark MLlib, Pandas, NumPy, Plotly, ggplot2, Shiny, Leaflet, machine learning, risk scoring, and dashboard development.\nView Skills →"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Home",
+    "section": "",
+    "text": "Graduate Teaching Assistant at George Mason University and former HR Operations Manager with experience in teaching, technical support, team leadership, compliance, payroll, and organizational operations.\nView Experience →"
+  },
+  {
+    "objectID": "index.html#coursework",
+    "href": "index.html#coursework",
+    "title": "Home",
+    "section": "",
+    "text": "Graduate coursework in data management, data mining, applied statistics, machine learning, big data, fraud examination, marketing analytics, and operations research.\nView Coursework →"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Open to Data Analyst, Data Analytics Engineer, AI Analyst, Machine Learning Analyst, Business Analyst, Fraud Analytics, KYC/AML Analytics, and Data Engineering roles.\nGet in Touch →"
   }
 ]
