@@ -4,25 +4,26 @@ project:
 website:
   title: "Sana Shaik"
   navbar:
-    right:
+    background: light
+    foreground: dark
+    left:
       - text: "Home"
         href: index.qmd
-      - text: "About Me"
+      - text: "About"
         href: about.qmd
       - text: "Projects"
         href: projects.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Coursework"
+        href: coursework.qmd
       - text: "Contact"
         href: contact.qmd
-      - text: "Interests"
-        href: hobbies.qmd
-        
+
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
-
- 
-
