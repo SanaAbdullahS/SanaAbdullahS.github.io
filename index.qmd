@@ -14,7 +14,8 @@ page-layout: full
 ::: {.hero-text}
 # Sana Shaik
 
-**Data Analytics Engineer | MS Data Analytics Engineering @ George Mason University**
+**Data Analytics Engineer**  
+**MS Data Analytics Engineering @ George Mason University**
 
 I build data-driven solutions using Python, R, SQL, machine learning, visualization, and AI-powered analytics. My work focuses on transforming complex data into clear insights for business, risk, compliance, and decision-making.
 
