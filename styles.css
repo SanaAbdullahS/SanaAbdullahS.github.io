@@ -1,28 +1,66 @@
-/* Force top navigation links to stay visible */
-.navbar-toggler {
-  display: none !important;
-}
-
-.navbar-collapse {
-  display: flex !important;
-  flex-basis: auto !important;
-}
-
-.navbar-nav {
-  flex-direction: row !important;
-  gap: 1.5rem;
-  align-items: center;
-}
-
-.navbar-nav .nav-link {
-  padding-left: 0.5rem !important;
-  padding-right: 0.5rem !important;
-  font-weight: 500;
-}
-
-/* Keep navigation visible at the top */
+/* Keep top navigation visible */
 .navbar {
   position: sticky;
   top: 0;
   z-index: 1000;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+/* Hide hamburger menu */
+.navbar-toggler {
+  display: none !important;
+}
+
+/* Make nav links always visible */
+.navbar-collapse {
+  display: flex !important;
+  flex-basis: auto !important;
+  justify-content: center !important;
+  width: 100%;
+}
+
+/* Center navigation links */
+.navbar-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  gap: 0.8rem;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Style each navigation option as a box */
+.navbar-nav .nav-link {
+  border: 1px solid #d0d7de;
+  border-radius: 10px;
+  padding: 0.45rem 1rem !important;
+  font-weight: 500;
+  background-color: #ffffff;
+  color: #1f2937 !important;
+  transition: all 0.2s ease-in-out;
+}
+
+/* Hover effect */
+.navbar-nav .nav-link:hover {
+  background-color: #f3f6fb;
+  border-color: #4f7fd9;
+  color: #0d6efd !important;
+}
+
+/* Keep active/highlight effect */
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show,
+.navbar-nav .nav-link[aria-current="page"] {
+  background-color: #eaf2ff;
+  border-color: #0d6efd;
+  color: #0d6efd !important;
+  font-weight: 600;
+}
+
+/* Keep search on the right */
+.navbar .quarto-navbar-tools,
+.navbar .aa-DetachedSearchButton {
+  margin-left: auto !important;
 }
