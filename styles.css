@@ -489,3 +489,219 @@ a:hover {
     min-height: 88px;
   }
 }
+/* ================================
+   Refined Violet / Blue Neon Theme
+================================ */
+
+/* Replace teal accents with violet/blue/pink */
+.hero-card {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #7c3aed, #38bdf8, #f472b6) border-box !important;
+}
+
+.hero-card::before {
+  background: radial-gradient(circle, rgba(124, 58, 237, 0.22), transparent 65%) !important;
+}
+
+.hero-card::after {
+  background: radial-gradient(circle, rgba(56, 189, 248, 0.2), transparent 65%) !important;
+}
+
+/* Center and tighten role/title spacing */
+.role-block {
+  margin-top: 0.65rem;
+  margin-bottom: 1.3rem;
+  text-align: center;
+}
+
+.role-main {
+  color: #a78bfa;
+  font-size: 1.22rem;
+  font-weight: 800;
+  line-height: 1.25;
+}
+
+.role-sub {
+  color: #c7d2fe;
+  font-size: 1.03rem;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 0.2rem;
+}
+
+/* Make hero paragraph spacing cleaner */
+.hero-text p {
+  margin-top: 0.4rem !important;
+}
+
+/* Remove old strong title styling if still present */
+.hero-text strong {
+  color: inherit !important;
+}
+
+/* ================================
+   Better Profile Link Cards
+================================ */
+
+.profile-link-card {
+  width: 126px !important;
+  min-height: 104px !important;
+  border-radius: 22px !important;
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, rgba(124, 58, 237, 0.9), rgba(56, 189, 248, 0.75)) border-box !important;
+  border: 1.5px solid transparent !important;
+  color: #f8fafc !important;
+  box-shadow:
+    0 14px 32px rgba(0, 0, 0, 0.28),
+    0 0 22px rgba(124, 58, 237, 0.12) !important;
+}
+
+.profile-link-card:hover {
+  transform: translateY(-5px) scale(1.02) !important;
+  box-shadow:
+    0 20px 42px rgba(0, 0, 0, 0.38),
+    0 0 28px rgba(56, 189, 248, 0.22) !important;
+}
+
+/* Make icon circles more interesting */
+.profile-icon {
+  width: 46px !important;
+  height: 46px !important;
+  font-size: 1.2rem !important;
+  border: none !important;
+  box-shadow: 0 0 18px rgba(255, 255, 255, 0.08);
+}
+
+/* Resume icon */
+.profile-link-card:nth-child(1) .profile-icon {
+  background: linear-gradient(135deg, #f472b6, #fb7185) !important;
+  color: #ffffff !important;
+}
+
+/* LinkedIn icon */
+.profile-link-card:nth-child(2) .profile-icon {
+  background: linear-gradient(135deg, #38bdf8, #2563eb) !important;
+  color: #ffffff !important;
+}
+
+/* GitHub icon */
+.profile-link-card:nth-child(3) .profile-icon {
+  background: linear-gradient(135deg, #a78bfa, #7c3aed) !important;
+  color: #ffffff !important;
+}
+
+/* Card hover icon glow */
+.profile-link-card:hover .profile-icon {
+  filter: brightness(1.08);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.18);
+}
+
+/* ================================
+   Fix Search Popup White Background
+================================ */
+
+.aa-DetachedOverlay,
+.aa-DetachedContainer,
+.aa-Panel,
+.aa-PanelLayout,
+.aa-DetachedFormContainer {
+  background: #0b1020 !important;
+  color: #e5e7eb !important;
+}
+
+.aa-DetachedContainer {
+  border: 1px solid rgba(167, 139, 250, 0.45) !important;
+  box-shadow:
+    0 24px 60px rgba(0, 0, 0, 0.55),
+    0 0 28px rgba(124, 58, 237, 0.22) !important;
+}
+
+.aa-Form {
+  background: #111827 !important;
+  border: 1px solid rgba(167, 139, 250, 0.65) !important;
+  box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.18) !important;
+}
+
+.aa-Input {
+  background: #111827 !important;
+  color: #f8fafc !important;
+}
+
+.aa-Input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.aa-DetachedCancelButton {
+  background: #111827 !important;
+  color: #e5e7eb !important;
+  border: 1px solid rgba(167, 139, 250, 0.45) !important;
+  border-radius: 10px !important;
+}
+
+.aa-DetachedCancelButton:hover {
+  background: rgba(124, 58, 237, 0.2) !important;
+  color: #ffffff !important;
+}
+
+.aa-Item[aria-selected="true"],
+.aa-Item:hover {
+  background: rgba(124, 58, 237, 0.18) !important;
+}
+
+/* Navbar accent update */
+.navbar {
+  border-bottom: 1px solid rgba(167, 139, 250, 0.28) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  background: rgba(124, 58, 237, 0.16) !important;
+  border-color: #a78bfa !important;
+  box-shadow: 0 0 16px rgba(124, 58, 237, 0.25) !important;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show,
+.navbar-nav .nav-link[aria-current="page"] {
+  background: linear-gradient(135deg, rgba(124, 58, 237, 0.28), rgba(56, 189, 248, 0.22)) !important;
+  border-color: #a78bfa !important;
+  box-shadow: 0 0 18px rgba(124, 58, 237, 0.25) !important;
+}
+
+/* Snapshot card border color variations */
+.snapshot-card:nth-child(1) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #38bdf8, #a78bfa) border-box !important;
+}
+
+.snapshot-card:nth-child(2) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #f472b6, #7c3aed) border-box !important;
+}
+
+.snapshot-card:nth-child(3) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #60a5fa, #38bdf8) border-box !important;
+}
+
+.snapshot-card:nth-child(4) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #f59e0b, #f472b6) border-box !important;
+}
+
+.snapshot-card:nth-child(5) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #a78bfa, #f472b6) border-box !important;
+}
+
+.snapshot-card:nth-child(6) {
+  background:
+    linear-gradient(#0b1020, #0b1020) padding-box,
+    linear-gradient(135deg, #38bdf8, #22c55e) border-box !important;
+}
